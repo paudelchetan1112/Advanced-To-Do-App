@@ -1,0 +1,12 @@
+import React from 'react'
+
+const About = () => {
+  return (
+    <div>
+      <h1 className="text-4xl">This is About Section</h1>
+      <h1>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere similique aliquid expedita. Est esse illum ullam nisi accusantium qui nulla dolores ducimus, quisquam veniam fugiat, eligendi quis! Corrupti, quod sed iusto accusamus vel quam magni soluta, at, dolorem minus fugit ad animi. Dolores reprehenderit animi, ab itaque, culpa laudantium aut non veritatis nihil alias beatae consectetur, doloremque illo voluptates expedita debitis qui libero magni quidem iste ipsa perferendis dignissimos omnis. Ad animi dicta dolore corrupti. Deleniti, vitae saepe corrupti quibusdam tenetur odio? Rerum ad voluptate culpa magnam nobis nemo quis aut repellat veniam cupiditate temporibus exercitationem, nam officia perferendis praesentium, obcaecati recusandae doloribus? Numquam at quis nobis nemo accusamus pariatur facilis deserunt alias quas, debitis voluptatibus ex earum, aspernatur odit iste enim! Totam sint quo possimus iure ducimus, repellendus dignissimos dolor quaerat officia! Perferendis fugit dolorem eum nostrum laudantium at quos dolor est? Tempore ab vitae, voluptatum quasi consequatur qui placeat blanditiis culpa illo odit modi dicta assumenda laudantium voluptate eligendi omnis aperiam hic exercitationem sed eius iusto veniam ratione in. Obcaecati incidunt, reiciendis soluta illo esse ut tempora! Error accusantium facere laudantium perferendis cupiditate expedita molestias. Fugiat, veritatis! Perferendis, repellat incidunt suscipit accusamus animi consectetur! Adipisci consectetur in unde, nam id mollitia sapiente! Repellat laborum libero dolore natus maiores eaque suscipit illum accusantium error adipisci, earum impedit doloremque ullam possimus quasi fugiat modi expedita. Ea quaerat ipsum possimus repellendus itaque, ut quibusdam corporis doloribus dolorum officia, reprehenderit nobis quae dignissimos at quos. Amet veniam repellendus, totam laboriosam provident at nihil cum quasi, ab culpa doloremque impedit possimus a quas voluptatibus. Iusto odit iste reprehenderit? Blanditiis velit perspiciatis dicta vero non dolor, mollitia corrupti vel ea quidem illum aliquam magni. Mollitia voluptatibus itaque rerum, assumenda natus non laboriosam quibusdam nesciunt nemo sed a enim voluptatem quis similique neque nisi quas.</h1>
+    </div>
+  )
+}
+
+export default About
